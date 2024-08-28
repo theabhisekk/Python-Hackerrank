@@ -1,2 +1,2 @@
-# Pythom-Hackerrank
+# Python-Hackerrank
 Hackerrank solutions
